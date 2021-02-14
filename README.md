@@ -15,9 +15,10 @@ Laravel documentation https://laravel.com/docs/master/installation
 
 ### Vue App Quick Start ###
 * Install latest node.js: https://nodejs.org​
+* Install yarn package manager: https://yarnpkg.com/​
 * Install node modules by running terminal command `npm install`
-* Run the app & watch changes `npm run watch`
-* Or build production app `npm run prod`
+* Run the app & watch changes `yarn watch`
+* Or build production app `yarn prod`
 
 ### Support ###
 Use GitHub Issues for tracking bugs and creating new feature requests or write to [support@sellpixels.com](mailto:support@sellpixels.com).
